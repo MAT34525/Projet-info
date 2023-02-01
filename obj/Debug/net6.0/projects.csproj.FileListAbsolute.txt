@@ -1,0 +1,15 @@
+C:\Users\thoma\Documents\ESILV\A4\info\projects\bin\Debug\net6.0\projects.exe
+C:\Users\thoma\Documents\ESILV\A4\info\projects\bin\Debug\net6.0\projects.deps.json
+C:\Users\thoma\Documents\ESILV\A4\info\projects\bin\Debug\net6.0\projects.runtimeconfig.json
+C:\Users\thoma\Documents\ESILV\A4\info\projects\bin\Debug\net6.0\projects.dll
+C:\Users\thoma\Documents\ESILV\A4\info\projects\bin\Debug\net6.0\projects.pdb
+C:\Users\thoma\Documents\ESILV\A4\info\projects\obj\Debug\net6.0\projects.csproj.AssemblyReference.cache
+C:\Users\thoma\Documents\ESILV\A4\info\projects\obj\Debug\net6.0\projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\Documents\ESILV\A4\info\projects\obj\Debug\net6.0\projects.AssemblyInfoInputs.cache
+C:\Users\thoma\Documents\ESILV\A4\info\projects\obj\Debug\net6.0\projects.AssemblyInfo.cs
+C:\Users\thoma\Documents\ESILV\A4\info\projects\obj\Debug\net6.0\projects.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Documents\ESILV\A4\info\projects\obj\Debug\net6.0\projects.dll
+C:\Users\thoma\Documents\ESILV\A4\info\projects\obj\Debug\net6.0\refint\projects.dll
+C:\Users\thoma\Documents\ESILV\A4\info\projects\obj\Debug\net6.0\projects.pdb
+C:\Users\thoma\Documents\ESILV\A4\info\projects\obj\Debug\net6.0\projects.genruntimeconfig.cache
+C:\Users\thoma\Documents\ESILV\A4\info\projects\obj\Debug\net6.0\ref\projects.dll
